@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @repiyann
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me 
+Hi there 👋
+About Me 👨‍🦱
+My name is Muhamad Repiyan
+Informatics Engineering Student at UNIKOM
+Live in Bandung, Indonesia
 
 <!---
 repiyann/repiyann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
