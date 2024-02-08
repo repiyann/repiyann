@@ -2,6 +2,7 @@
 # About Me 👨‍🦱
 * My name is Muhamad Repiyan
 * Informatics Engineering Student at UNIKOM
+* 💻 Full Stack Web Developer
 * Live in Bandung, Indonesia
 
 # My Statistic
